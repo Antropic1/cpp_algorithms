@@ -1,4 +1,4 @@
-/* Function to get minimun number of trials needed
+/* Function to get minimum number of trials needed
  * in worst case with n eggs and k floors
  */
 
