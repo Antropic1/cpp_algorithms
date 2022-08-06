@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a4a37381c0ef93d5ae2118b2e554974dd":[10,0,1,5,0,18],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a5438d0a47850f520b2262b5a42f75b71":[10,0,1,5,0,11],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a607d8201b00b142bf1d6a34df2f936e8":[10,0,1,5,0,19],
 "dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a650f0ef26b7450e1addb5d80bb0ed629":[10,0,1,5,0,6],
@@ -99,7 +100,6 @@ var NAVTREEINDEX11 =
 "dd/da8/pigeonhole__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,20,14,0],
 "dd/da8/pigeonhole__sort_8cpp.html#af31ec5409537703d9c8a47350386b32a":[11,0,20,14,4],
 "dd/dae/namespacecount__of__set__bits.html":[9,0,14],
-"dd/db0/_2_users_2runner_2work_2_c-_plus-_plus_2_c-_plus-_plus_2sorting_2wiggle_sort_8cpp-example.html":[12,2],
 "dd/db1/namespacedata__strcutres.html":[9,0,19],
 "dd/db6/structbinary__search__tree_1_1bst__node.html":[10,0,16,0],
 "dd/db6/structbinary__search__tree_1_1bst__node.html#a05f3a7aa6c31622f855ce4b5a95e91df":[10,0,16,0,2],
